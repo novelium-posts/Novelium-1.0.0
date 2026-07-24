@@ -1,3 +1,4 @@
+<img width="200" height="200" alt="hello world" src="https://github.com/user-attachments/assets/3d93db41-8e30-4c16-9f6f-1edfec60ba3d" />
 # Novelium 1.0.0
 Official + First version of Novelium
 Velocity based executor
