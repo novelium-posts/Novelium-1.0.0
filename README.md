@@ -23,3 +23,4 @@ i will work too on a own API but it wont let novelium paid o smth else, it ever 
 
 
 whit love - Sotlindo972 ❤️
+
