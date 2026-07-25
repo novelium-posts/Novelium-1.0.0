@@ -12,10 +12,10 @@ Open file btn: open your explorer for open a .txt fle on writbox
 
 Inject: attach the roblox client leting you execute scripts
 
-Kill roblox: close roblox client
-
 # Configurations
 Auto inject: auto attach roblox client when the file be open
+
+Kill roblox: close roblox client
 
 # NOTE (please read)
 this is the first version of novelium, of course will be issues and bugs that will let his use harder. But whit updates I will let it better and whit more functions! I will work too on a own API but it wont let novelium paid o smth else, it ever will be keyless and free! :)
